@@ -1,41 +1,26 @@
-# Hi 👋, I'm Abin Shaji
+<h1 align="center">Hi 👋, I'm Abin Shaji</h1>
 
 <h3 align="center">
-📊 Data Analyst • Power BI Developer • SQL • Python • Business Intelligence
+💙 Data Analyst | Power BI Developer | SQL | Python | Business Intelligence
 </h3>
 
 <p align="center">
-Turning Data into Actionable Insights 🚀
-</p>
-
-<p align="center">
-<a href="https://abinshaji2004-a11y.github.io/powerbi-portfolio/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit%20Now-2563EB?style=for-the-badge">
-</a>
-
-<a href="https://www.linkedin.com/in/abinshaji2004">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/abinshaji2004-a11y">
-<img src="https://img.shields.io/github/followers/abinshaji2004-a11y?style=for-the-badge">
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Business+Intelligence+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-* 🎓 BBA Graduate
-* 📊 Passionate Data Analyst
-* 📈 Power BI Dashboard Developer
-* 🐍 Python & SQL Enthusiast
-* 📚 Learning Advanced Analytics & Automation
-* 💡 Interested in Data Visualization, BI & Web Development
+🎓 BBA Graduate
 
-📍 Kerala, India
+📊 Passionate Data Analyst
 
-📧 [abinshaji2004@gmail.com](mailto:abinshaji2004@gmail.com)
+📈 Power BI Dashboard Developer
+
+🐍 Learning Advanced Python
+
+⚡ Interested in Automation & Business Intelligence
 
 🌐 Portfolio
 
@@ -47,73 +32,23 @@ https://abinshaji2004-a11y.github.io/powerbi-portfolio/
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css"/>
 
 </p>
+
+<br>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-0EA5E9?style=for-the-badge"/>
 
 </p>
-
----
-
-# 📂 Featured Projects
-
-## 🎮 Video Game Market Intelligence Dashboard
-
-✔ Global Sales Analysis
-
-✔ Publisher Performance
-
-✔ Platform Trends
-
-✔ Genre Analysis
-
-✔ Interactive Power BI Dashboard
-
-🔗 https://abinshaji2004-a11y.github.io/powerbi-portfolio/
-
----
-
-## 🎓 College Admission Dashboard
-
-Student Enrollment Analysis
-
-Admission Trends
-
-Department Insights
-
-🚧 Coming Soon
-
----
-
-## 🛒 Super Market Dashboard
-
-Sales Analytics
-
-Revenue Tracking
-
-Customer Insights
-
-🚧 Coming Soon
-
----
-
-## 🏪 Retail Sales Dashboard
-
-Business KPIs
-
-Profit Analysis
-
-Sales Dashboard
-
-🚧 Coming Soon
 
 ---
 
@@ -121,9 +56,11 @@ Sales Dashboard
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abinshaji2004-a11y&show_icons=true&theme=radical&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=abinshaji2004-a11y&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinshaji2004-a11y&layout=compact&theme=radical&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinshaji2004-a11y&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -133,7 +70,8 @@ Sales Dashboard
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abinshaji2004-a11y&theme=radical&hide_border=true"/>
+<img
+src="https://streak-stats.demolab.com?user=abinshaji2004-a11y&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -143,7 +81,8 @@ Sales Dashboard
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abinshaji2004-a11y&theme=radical&no-frame=true&row=1&column=7"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=abinshaji2004-a11y&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -153,7 +92,8 @@ Sales Dashboard
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abinshaji2004-a11y&theme=react-dark"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=abinshaji2004-a11y&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -163,15 +103,36 @@ Sales Dashboard
 
 <p align="center">
 
-<picture>
+<img
+src="https://raw.githubusercontent.com/abinshaji2004-a11y/abinshaji2004-a11y/output/github-contribution-grid-snake-blue.svg"/>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinshaji2004-a11y/abinshaji2004-a11y/output/github-contribution-grid-snake-dark.svg">
+</p>
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinshaji2004-a11y/abinshaji2004-a11y/output/github-contribution-grid-snake.svg">
+---
 
-<img alt="Snake animation" src="https://raw.githubusercontent.com/abinshaji2004-a11y/abinshaji2004-a11y/output/github-contribution-grid-snake.svg">
+# 🚀 Featured Project
 
-</picture>
+### 📊 Power BI Portfolio
+
+🔗 https://abinshaji2004-a11y.github.io/powerbi-portfolio/
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/abinshaji2004">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/abinshaji2004-a11y">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:abinshaji2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </p>
 
@@ -181,27 +142,8 @@ Sales Dashboard
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=abinshaji2004-a11y&style=for-the-badge&color=blueviolet"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/abinshaji2004">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/abinshaji2004-a11y">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://abinshaji2004-a11y.github.io/powerbi-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge"/>
-</a>
+<img
+src="https://komarev.com/ghpvc/?username=abinshaji2004-a11y&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge"/>
 
 </p>
 
@@ -209,6 +151,6 @@ Sales Dashboard
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile ⭐
 
 </p>
