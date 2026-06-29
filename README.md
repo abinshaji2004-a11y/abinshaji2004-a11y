@@ -261,19 +261,112 @@ https://abinshaji2004-a11y.github.io/powerbi-portfolio/
 
 # 🚀 Featured Power BI Dashboards
 
-| 📊 Dashboard | 🚀 Status |
-|--------------|-----------|
-| 🎮 **[Video Game Market Analysis](https://abinshaji2004-a11y.github.io/powerbi-portfolio/videogame.html)** | 🟢 **Live** |
-| 🎓 **[College Admission Dashboard](https://abinshaji2004-a11y.github.io/powerbi-portfolio/college.html)** | 🟢 **Live** |
-| 🛒 **Super Market Sales Dashboard** | 🚧 **In Progress** |
-| 🛍️ **Retail Sales Dashboard** | 🚧 **In Progress** |
+> **Interactive Power BI dashboards built to transform raw data into meaningful business insights.**
+
+<table align="center">
+<tr>
+<th>📊 Dashboard</th>
+<th>📝 Description</th>
+<th>🚀 Status</th>
+</tr>
+
+<tr>
+<td>
+
+🎮 <b><a href="https://abinshaji2004-a11y.github.io/powerbi-portfolio/videogame.html">Video Game Market Analysis</a></b>
+
+</td>
+
+<td>
+
+Global sales trends, publishers, genres & platform performance.
+
+</td>
+
+<td>
+
+🟢 <b>Live</b>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🎓 <b><a href="https://abinshaji2004-a11y.github.io/powerbi-portfolio/college.html">College Admission Dashboard</a></b>
+
+</td>
+
+<td>
+
+Admission analytics, applications, courses & student insights.
+
+</td>
+
+<td>
+
+🟢 <b>Live</b>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🛒 <b>Super Market Sales Dashboard</b>
+
+</td>
+
+<td>
+
+Sales trends, revenue analysis & customer insights.
+
+</td>
+
+<td>
+
+🚧 <b>In Progress</b>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🛍️ <b>Retail Sales Dashboard</b>
+
+</td>
+
+<td>
+
+Business KPIs, profit analysis & product performance.
+
+</td>
+
+<td>
+
+🚧 <b>In Progress</b>
+
+</td>
+</tr>
+
+</table>
+
+<br>
 
 <p align="center">
 
 <a href="https://abinshaji2004-a11y.github.io/powerbi-portfolio/">
-<img src="https://img.shields.io/badge/🌐_View_All_Projects-2563EB?style=for-the-badge&logo=powerbi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🌐_Explore_My_Power_BI_Portfolio-2563EB?style=for-the-badge&logo=powerbi&logoColor=white"/>
 
 </a>
+
+</p>
+
+<p align="center">
+
+<i>📈 Turning Data into Meaningful Insights with Power BI</i>
 
 </p>
 
