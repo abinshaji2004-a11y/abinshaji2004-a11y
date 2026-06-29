@@ -1,20 +1,44 @@
 <h1 align="center">
-  Hi 👋, I'm Abin Shaji
+Hi 👋, I'm <span style="color:#00E5FF;">Abin Shaji</span>
 </h1>
 
 <h3 align="center">
-📊 Data Analyst • Power BI Developer • SQL • Python • Web Developer
+🚀 Data Analyst • Power BI Developer • SQL • Python • Business Intelligence
 </h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Data+Analytics+%7C+Power+BI;SQL+%7C+Python+Developer;Business+Intelligence+Enthusiast;Always+Learning+New+Things..." />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Data+Analyst;Power+BI+Developer;Business+Intelligence;SQL+Developer;Python+Developer;Dashboard+Developer;Web+Developer;Always+Learning+New+Technologies"/>
+---
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abinshaji2004">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/abinshaji2004-a11y">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://abinshaji2004-a11y.github.io/powerbi-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+<a href="mailto:abinshaji2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
 
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 🎓 BBA Graduate
 
@@ -24,31 +48,102 @@
 
 💻 SQL • Python • Excel
 
-🌐 Front-End Web Developer
+🌱 Currently learning Advanced Analytics & Automation
 
-🚀 Learning Advanced Analytics & Automation
+🚀 Interested in Business Intelligence, Data Visualization & Web Development
 
-📍 Kerala, India
-
+🌍 From Kerala, India
 ---
 
 # 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&theme=dark" />
 
 </p>
 
+---
+
+# 💼 Technical Skills
+
+<table align="center">
+<tr>
+<td>
+
+### 📊 Data Analytics
+- Power BI
+- Excel
+- SQL
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+
+</td>
+
+<td>
+
+### 💻 Programming
+- Python
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tools I Use
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+# 🌟 Currently Learning
+
+- 🤖 Data Analytics using AI
+- 📊 Advanced Power BI
+- 🐍 Python Automation
+- 🌐 Web Development
+- ⚡ GitHub Actions
+- 📈 Business Intelligence
+
+---
+
+# 🌐 Languages
+
+- 🇮🇳 Malayalam
+- 🇬🇧 English
+- 🇮🇳 Tamil
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abinshaji2004-a11y&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abinshaji2004-a11y&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinshaji2004-a11y&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinshaji2004-a11y&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </p>
 
@@ -58,19 +153,53 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=abinshaji2004-a11y&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=abinshaji2004-a11y&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </p>
 
 ---
+
 # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abinshaji2004-a11y&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abinshaji2004-a11y&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
 
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abinshaji2004-a11y&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abinshaji2004-a11y&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⚡ GitHub Overview
+
+- 📦 Public Repositories
+- ⭐ Open Source Projects
+- 📊 Power BI Dashboards
+- 🐍 Python Projects
+- 💾 SQL Projects
+- 🌐 Web Development
+- 🚀 Continuous Learning
+
+---
 ---
 
 # 🐍 Contribution Snake
@@ -86,7 +215,7 @@ srcset="https://raw.githubusercontent.com/abinshaji2004-a11y/abinshaji2004-a11y/
 srcset="https://raw.githubusercontent.com/abinshaji2004-a11y/abinshaji2004-a11y/output/github-contribution-grid-snake.svg">
 
 <img alt="Snake Animation"
-src="https://raw.githubusercontent.com/abinshaji2004-a11y/abinshaji2004-a11y/output/github-contribution-grid-snake.svg"/>
+src="https://raw.githubusercontent.com/abinshaji2004-a11y/abinshaji2004-a11y/output/github-contribution-grid-snake-dark.svg"/>
 
 </picture>
 
@@ -94,131 +223,140 @@ src="https://raw.githubusercontent.com/abinshaji2004-a11y/abinshaji2004-a11y/out
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abinshaji2004-a11y&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=abinshaji2004-a11y&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-
-</p>
-
----
-
-# ⚡ Current Focus
-
-- 📊 Building Interactive Power BI Dashboards
-- 🐍 Improving Python Skills
-- 💾 Writing Optimized SQL Queries
-- 🌐 Developing Responsive Web Applications
-- 🤖 Exploring AI & Automation
-- 📈 Creating Business Intelligence Solutions
-
----
 # 🚀 Featured Projects
 
-## 🎮 Video Game Market Intelligence Dashboard
+<table>
+<tr>
 
-📊 Interactive Power BI Dashboard for Global Video Game Sales Analysis
+<td width="50%">
+
+## 🎮 Video Game Market Intelligence
+
+📊 Interactive Power BI Dashboard
 
 ### Features
 
-- 🎮 Global Sales Analysis
-- 🌍 Regional Sales Insights
-- 🏢 Publisher Performance
-- 🕹 Platform Trends
-- 📈 Year-wise Growth
-- 📊 Interactive Visualizations
+- Global Sales Analysis
+- Publisher Performance
+- Platform Analysis
+- Genre Insights
+- Interactive Visuals
 
-🔗 **Live Portfolio**
+🔗 **Live Demo**
 
 https://abinshaji2004-a11y.github.io/powerbi-portfolio/
 
----
+</td>
 
-## 🎓 College Admission Dashboard
+<td width="50%">
 
-📊 Power BI Dashboard
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abinshaji2004-a11y&repo=powerbi-portfolio&theme=tokyonight"/>
 
-- Student Admissions
-- Department Analysis
-- Admission Trends
-- Academic Insights
+</td>
 
-🚧 Coming Soon
+</tr>
+</table>
 
 ---
 
-## 🛒 Super Market Analysis Dashboard
+# 📊 Upcoming Dashboards
 
-📊 Sales & Revenue Analytics
-
-- Product Performance
-- Customer Insights
-- Profit Analysis
-- KPI Dashboard
-
-🚧 Coming Soon
-
----
-
-## 🏪 Retail Sales Dashboard
-
-📊 Business Intelligence Dashboard
-
-- Sales Overview
-- Profit Tracking
-- Product Performance
-- Revenue Analysis
-
-🚧 Coming Soon
-
----
-
-# 💻 Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DAX-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Visualization-0EA5E9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Business%20Intelligence-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-06B6D4?style=for-the-badge"/>
-
-</p>
+| Dashboard | Status |
+|------------|--------|
+| 🛒 Super Market Analysis | 🚧 Coming Soon |
+| 🎓 College Admission Dashboard | 🚧 Coming Soon |
+| 🏪 Retail Sales Dashboard | 🚧 Coming Soon |
+| 💰 Financial Dashboard | 🚧 Coming Soon |
+| 👨‍💼 HR Analytics Dashboard | 🚧 Coming Soon |
+| 📦 Inventory Dashboard | 🚧 Coming Soon |
 
 ---
 
 # 🌐 Portfolio
 
-## 🔗 Live Portfolio
+### 🔗 Live Website
 
-**Website**
+**Portfolio**
 
 https://abinshaji2004-a11y.github.io/powerbi-portfolio/
 
+### ⭐ Features
+
+✔ Responsive Design
+
+✔ Modern UI
+
+✔ Interactive Dashboards
+
+✔ Mobile Friendly
+
+✔ Fast Loading
+
+✔ Clean Design
+
+✔ GitHub Hosted
+
+---
 ---
 
-# 📫 Contact
+# 🎓 Education
+
+## Bachelor of Business Administration (BBA)
+
+🏫 **St. Joseph College Moolamattom**
+
+📅 Graduated: **2025**
+
+---
+
+# 📜 Certifications
+
+### 📊 Data Analytics Using AI
+
+🏢 Computer Park, Thodupuzha
+
+📅 Aug 2025 – Feb 2026
+
+---
+
+# 🎯 Career Objective
+
+Passionate Data Analyst with a strong interest in
+Business Intelligence, Data Visualization, SQL and
+Power BI.
+
+My goal is to transform raw data into meaningful
+business insights that help organizations make
+better decisions.
+
+---
+
+# 🚀 Current Goals
+
+- 📊 Build 20+ Power BI Dashboards
+- 🐍 Master Python for Data Analytics
+- 💾 Become Advanced in SQL
+- 🌐 Build Modern Web Applications
+- 🤖 Learn AI & Automation
+- 📈 Get a Data Analyst Role
+
+---
+
+# 📈 Currently Working On
+
+✅ Power BI Portfolio
+
+✅ Dashboard Development
+
+✅ SQL Practice
+
+✅ Python Projects
+
+✅ GitHub Portfolio
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -236,200 +374,13 @@ https://abinshaji2004-a11y.github.io/powerbi-portfolio/
 
 <a href="https://github.com/abinshaji2004-a11y">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
----
-# 🎓 Education
-
-**Bachelor of Business Administration (BBA)**
-
-🏫 St. Joseph College Moolamattom
-
-📅 Graduated: 2025
-
----
-
-# 📜 Certifications
-
-✅ Data Analytics Using AI
-
-🏢 Computer Park, Thodupuzha
-
-📅 Aug 2025 – Feb 2026
-
----
-
-# 🎯 Current Goals
-
-- 🚀 Build Real-World Power BI Projects
-- 📊 Become a Business Intelligence Developer
-- 💻 Improve SQL & Python Skills
-- 🌐 Build Responsive Web Applications
-- 🤖 Learn AI Automation
-- 📈 Create Interactive Dashboards
-
----
-
-# 📚 Currently Learning
-
-- 📊 Advanced Power BI
-- 🐍 Python for Data Analytics
-- 💾 Advanced SQL
-- 🤖 AI & Automation
-- 🌐 Full Stack Web Development
-
----
-
-# 💡 Fun Fact
-
-> "Without data, you're just another person with an opinion."
-
----
-
-# 🤝 Open to Opportunities
-
-💼 Data Analyst
-
-📊 Power BI Developer
-
-📈 Business Intelligence Developer
-
-🌐 Web Developer
-
-🤝 Internship Opportunities
-
----
-
-# 🌟 Support My Work
-
-If you like my projects, please consider giving them a ⭐ on GitHub.
-
-It motivates me to build more amazing projects.
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:2563EB&height=120&section=footer"/>
-
-</p>
-
-<h3 align="center">
-
-⭐ Thank you for visiting my profile! ⭐
-
-</h3>
-
-<p align="center">
-
-Made with ❤️ by <strong>Abin Shaji</strong>
-
-</p>
----
-
-# 🌟 Achievements
-
-🏆 Built Interactive Power BI Dashboards
-
-📊 Created Business Intelligence Reports
-
-📈 Designed Data Visualization Projects
-
-💻 Developed Responsive Portfolio Website
-
-🚀 Continuously Learning New Technologies
-
----
-
-# 🎯 2026 Goals
-
-✅ Become a Professional Data Analyst
-
-✅ Build 15+ Power BI Projects
-
-✅ Master SQL & Python
-
-✅ Learn Machine Learning
-
-✅ Build AI Powered Applications
-
----
-
-# 📌 Featured Repositories
-
-⭐ Power BI Portfolio
-
-⭐ Video Game Dashboard
-
-⭐ College Admission Dashboard
-
-⭐ Retail Sales Dashboard
-
-⭐ Super Market Dashboard
-
----
-
-# 📚 Currently Exploring
-
-🐍 Advanced Python
-
-📊 Advanced Power BI
-
-💾 SQL Optimization
-
-🤖 Artificial Intelligence
-
-⚡ Automation
-
-☁ Cloud Technologies
-
----
-
-# 💬 Favourite Quote
-
-> "Without data, you're just another person with an opinion."
-
-— W. Edwards Deming
-
----
-
-# 📈 Coding Journey
-
-🟢 Learning Every Day
-
-🔵 Building Real Projects
-
-🟣 Improving Problem Solving
-
-🟠 Exploring Business Intelligence
-
-🔴 Becoming Better Than Yesterday
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/abinshaji2004">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="mailto:abinshaji2004@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
 <a href="https://abinshaji2004-a11y.github.io/powerbi-portfolio/">
 
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 
 </a>
 
@@ -437,9 +388,15 @@ Made with ❤️ by <strong>Abin Shaji</strong>
 
 ---
 
+# 💬 Quote
+
+> **"Data is the new oil, but insights are the real value."**
+
+---
+
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00E5FF,50:2563EB,100:7C3AED&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:2563EB,100:7C3AED&height=160&section=footer"/>
 
 </p>
 
