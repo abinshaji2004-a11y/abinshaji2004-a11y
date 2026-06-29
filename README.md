@@ -261,24 +261,13 @@ https://abinshaji2004-a11y.github.io/powerbi-portfolio/
 
 # 🚀 Featured Power BI Dashboards
 
-> **Interactive dashboards built with Power BI to transform raw data into actionable business insights.**
-
 | 📊 Dashboard | ✨ Description | 🚀 Status |
 |--------------|---------------|-----------|
-| 🎮 **[Video Game Market Analysis](https://abinshaji2004-a11y.github.io/powerbi-portfolio/)** | Global sales, publishers, genres & platform insights | 🟢 **Live** |
-| 🛒 **[Super Market Sales Dashboard](https://abinshaji2004-a11y.github.io/powerbi-portfolio/)** | Sales performance, customer trends & revenue analytics | 🟢 **Live** |
-| 🛍️ **[Retail Sales Dashboard](https://abinshaji2004-a11y.github.io/powerbi-portfolio/)** | KPIs, profit analysis & business performance | 🟢 **Live** |
-
-<p align="center">
-
-<a href="https://abinshaji2004-a11y.github.io/powerbi-portfolio/">
-<img src="https://img.shields.io/badge/🌐_View_All_Dashboards-2563EB?style=for-the-badge&logo=powerbi&logoColor=white"/>
-</a>
-
-</p>
+| 🎮 **[Video Game Market Analysis](https://abinshaji2004-a11y.github.io/powerbi-portfolio/videogame.html)** | Global sales, publishers, genres & platform insights | 🟢 **Live** |
+| 🛒 **[Super Market Sales Dashboard](https://abinshaji2004-a11y.github.io/powerbi-portfolio/supermarket.html)** | Sales performance, customer trends & revenue analytics | 🟢 **Live** |
+| 🛍️ **[Retail Sales Dashboard](https://abinshaji2004-a11y.github.io/powerbi-portfolio/retail.html)** | KPIs, profit analysis & business performance | 🟢 **Live** |
 
 ---
-
 # 🌐 Portfolio
 
 ### 🔗 Live Website
