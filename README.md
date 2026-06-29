@@ -261,11 +261,21 @@ https://abinshaji2004-a11y.github.io/powerbi-portfolio/
 
 # 🚀 Featured Power BI Dashboards
 
-| 📊 Dashboard | ✨ Description | 🚀 Status |
-|--------------|---------------|-----------|
-| 🎮 **[Video Game Market Analysis](https://abinshaji2004-a11y.github.io/powerbi-portfolio/videogame.html)** | Global sales, publishers, genres & platform insights | 🟢 **Live** |
-| 🛒 **[Super Market Sales Dashboard](https://abinshaji2004-a11y.github.io/powerbi-portfolio/supermarket.html)** | Sales performance, customer trends & revenue analytics | 🟢 **Live** |
-| 🛍️ **[Retail Sales Dashboard](https://abinshaji2004-a11y.github.io/powerbi-portfolio/retail.html)** | KPIs, profit analysis & business performance | 🟢 **Live** |
+| 📊 Dashboard | 🚀 Status |
+|--------------|-----------|
+| 🎮 **[Video Game Market Analysis](https://abinshaji2004-a11y.github.io/powerbi-portfolio/videogame.html)** | 🟢 **Live** |
+| 🎓 **[College Admission Dashboard](https://abinshaji2004-a11y.github.io/powerbi-portfolio/college.html)** | 🟢 **Live** |
+| 🛒 **Super Market Sales Dashboard** | 🚧 **In Progress** |
+| 🛍️ **Retail Sales Dashboard** | 🚧 **In Progress** |
+
+<p align="center">
+
+<a href="https://abinshaji2004-a11y.github.io/powerbi-portfolio/">
+<img src="https://img.shields.io/badge/🌐_View_All_Projects-2563EB?style=for-the-badge&logo=powerbi&logoColor=white"/>
+
+</a>
+
+</p>
 
 ---
 # 🌐 Portfolio
